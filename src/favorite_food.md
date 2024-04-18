@@ -1,5 +1,3 @@
 # favorite food
 
-pineapple
-
-
+apple
